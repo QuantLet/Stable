@@ -9,7 +9,7 @@ Keywords: stable, logarithmic, distribution, kernel, cauchy
 
 See also: sim_stable, stable, mc_culloch, stabreg
 
-Author: NW
+Author: Niels Wesselhöfft
 
 Submitted: 2016-07-04
 

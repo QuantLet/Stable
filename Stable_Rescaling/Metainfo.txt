@@ -9,7 +9,7 @@ Keywords: stable, scaling, distribution, scatterplot, standardize
 
 See also: Stable_LogDensity_Financials, sim_stable, stable
 
-Author: NW
+Author: Niels Wesselhöfft
 
 Submitted: 2016-07-04
 
